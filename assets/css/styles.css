@@ -57,7 +57,7 @@ body {
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    background-image: url('/assets/images/image-product-desktop.jpg');
+    background-image: url('../images/image-product-desktop.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -148,7 +148,7 @@ body {
 
     .card__image {
         height: 30rem;
-        background-image: url('/assets/images/image-product-mobile.jpg');
+        background-image: url('../images/image-product-mobile.jpg');
     }
 
     .card__body {
